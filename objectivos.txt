@@ -1,0 +1,29 @@
+PROJETO FINAL
+O projeto final consiste em fazer uma análise exploratória dos dados de um dataset.
+O dataset deve ser escolhido pelos alunos, e deve ser razoavelmente grande, de forma a poder aplicar o 
+máximo de conceitos estudados, entre outros:
+Limpeza e preparação dos dados (valores em falta, valores duplicados, etc.)
+Algum tipo de transformação dos dados (dependendo do dataset e do que se pretender estudar)
+Algum estudo com dados agrupados, pivot_table, crosstable, etc.
+Caso existam no dataset, efetuar algum estudo com series temporais
+Aplicar as diferentes técnicas de visualização
+Fazer a análise estatísticas uni e multivariada
+Construir um dashboard, onde se possa visualizar os dados de forma dinâmica
+Devem construir um relatório utilizando o Jupyter Notebook, com todo o estudo efetuado.
+Devem apresentar não apenas os comandos efetuados, mas também os textos com a análise e conclusões sobre os dados 
+apresentados e resultados obtidos.
+Devem também apresentar um dashboard sobre o vosso dataset, num Notebook à parte.
+Chama-se a atenção que, como se viu nas aulas, os tópicos apresentados não são sempre estudados em separado,
+ ou seja, muitas vezes faz-se um gráfico diretamente a partir da pivot table, por exemplo. 
+Cabe aos alunos fazer e apresentar a análise exploratória dos dados de acordo com a sua perspectiva e o 
+respetivo dataset.
+
+Os trabalhos devem ser realizados individualmente ou, no máximo, em grupos de duas pessoas, mas o 
+trabalho exigido a um grupo de duas pessoas será de um grau mais elevado do que o trabalho exigido a uma pessoa,
+ por razões óbvias.
+
+A data de entrega do trabalho será a data do exame de época normal, após essa data, 
+e até à data do exame de época de recurso, os alunos ainda podem entregar o trabalho, 
+mas terá uma penalização de 0.2 valores por dia de atraso.
+
+Devem criar um ficheiro ZIP com os dados e submeter esse ficheiro. Atenção que apenas é permitido submeter um único ficheiro e tem de ser um ficheiro ZIP.

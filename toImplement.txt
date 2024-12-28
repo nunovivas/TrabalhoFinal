@@ -1,0 +1,1 @@
+No final ter um exportador para JSON (para demonstrar que dá...)
