@@ -1,1 +1,5 @@
 No final ter um exportador para JSON (para demonstrar que dá...)
+
+Por as sources (todas incluindo a final)
+
+Final -> https://www.kaggle.com/datasets/michaellight/usda-coffee-data-06-2020/data
