@@ -12,3 +12,6 @@ o que se consegue "ler" nos gráficos,
  qual a informação que pode ser obtida neles, 
  não te limites a fazer os gráficos, 
  e qual a limitação do dataset que referes"
+
+
+Limpar espaços das regiões
