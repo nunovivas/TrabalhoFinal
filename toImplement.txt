@@ -1,17 +1,1 @@
-No final ter um exportador para JSON (para demonstrar que dá...)
-
-Por as sources (todas incluindo a final)
-
-Final -> https://www.kaggle.com/datasets/michaellight/usda-coffee-data-06-2020/data
-
-TODO:
-um tab com top 5 de várias coisas.
-Escrever análise dos gráficos.
-"Explica porque é que os gráficos são interessantes, 
-o que se consegue "ler" nos gráficos,
- qual a informação que pode ser obtida neles, 
- não te limites a fazer os gráficos, 
- e qual a limitação do dataset que referes"
-
-
-Limpar espaços das regiões
+Limpar espaços das regiões DONE
