@@ -10,3 +10,15 @@ DONE o Happiness report também tem e pode ser feito neste também
 DONE (com os outliers) Analise estatistica univariada /multivariada
 
 DONE No final, remover colunas que não se usam
+DONE Verificação de duplicados? Existem ou não?
+- Verificação de outliers "simples" (sem correlação), utilizando a regra de Tukey e gráficos de caixa-e-bigode?
+ Caso existam, o que fazer? Eliminar/manter? Porquê?
+- Verificar e analisar os resultados da estatística 
+descritiva (media/max(min/etc). 
+Não apresentes só os valores,
+ analisa e explica pelo menos uns quantos...
+DONE (e explicado porque nao usar no DS final)Agora tens "anos" porque não usar esse tipo de dados?
+ 
+Erros:
+DONE Continuas com um erro: Algures apresentas como resultado um dataset vazio, mas os dados não dão isso... Só está vazio porque estás à procura de um valor que não existe nos dados: Por favor verifica o seguinte: Estás à procura de dfCoffee['Attribute_Description'] == 'Soluble Dom. Cons' (estou a simplificar), mas **falta um ponto no fim**... devias estar à procura de 'Soluble Dom. Cons.' (falta o ponto final)
+DONE Utilizadas o seaborn (sns) mas não importas o módulo???
