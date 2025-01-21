@@ -2,11 +2,11 @@ DONE Limpar espaços das regiões
 
 DONE Verificar se existem dados vazios ou em falta
 DONE Explicar o que foi feito com esses dados, caso existam
-HAPPINESS DONE,COFFEE TODO, Analise a cada um dos datasets em separado
+HAPPINESS DONE
 Categorias?
 DONE Mais tipos de gráficos (novas análises). 
-TODO Café ao longo dos anos
+TODO COFFEE ao longo dos anos
 DONE o Happiness report também tem e pode ser feito neste também
 DONE (com os outliers) Analise estatistica univariada /multivariada
 
-No final, remover colunas que não se usam
+DONE No final, remover colunas que não se usam
