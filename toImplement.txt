@@ -11,11 +11,11 @@ DONE (com os outliers) Analise estatistica univariada /multivariada
 
 DONE No final, remover colunas que não se usam
 DONE Verificação de duplicados? Existem ou não?
-- Verificação de outliers "simples" (sem correlação), utilizando a regra de Tukey e gráficos de caixa-e-bigode?
+DONE Verificação de outliers "simples" (sem correlação), utilizando a regra de Tukey e gráficos de caixa-e-bigode?
  Caso existam, o que fazer? Eliminar/manter? Porquê?
-- Verificar e analisar os resultados da estatística 
+DONE - Verificar e analisar os resultados da estatística 
 descritiva (media/max(min/etc). 
-Não apresentes só os valores,
+DONE - Não apresentes só os valores,
  analisa e explica pelo menos uns quantos...
 DONE (e explicado porque nao usar no DS final)Agora tens "anos" porque não usar esse tipo de dados?
  
